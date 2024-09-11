@@ -1,0 +1,20 @@
+/* Styling for member list container */
+.member-list {
+    padding: 1rem;
+  }
+  
+  /* Styling for individual member cards */
+  .member-card {
+    background-color: #ffffff; /* White background to highlight black text */
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 5px;
+  }
+  
+  /* Ensure text color is black */
+  .member-name,
+  .member-role {
+    color: black !important; /* Set text color to black */
+  }
+  
